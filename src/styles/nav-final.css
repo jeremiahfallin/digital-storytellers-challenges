@@ -1,0 +1,38 @@
+body-final {
+  font-family: Arial, sans-serif;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbar-final {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #333;
+}
+
+.logo-final {
+  font-size: 24px;
+  color: white;
+}
+
+.nav-links-final {
+  list-style: none;
+  display: flex;
+  padding: 0;
+}
+
+.nav-links-final li {
+  padding-left: 20px;
+}
+
+.nav-links-final a {
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+}
+
+.nav-links-final a:hover {
+  color: #0070f3;
+}

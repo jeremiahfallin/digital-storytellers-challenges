@@ -1,0 +1,36 @@
+.cards-page {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  background-color: #f0f0f0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.cards-container {
+}
+
+.cards {
+}
+
+.cards-header {
+}
+
+.cards-image img {
+  width: 100%;
+  height: auto;
+}
+
+.cards-description {
+}
+
+.cards-button {
+}
+
+.cards-button button {
+}
+
+.cards-button button:hover {
+}
