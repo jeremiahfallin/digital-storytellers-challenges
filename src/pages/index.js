@@ -9,7 +9,14 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <main></main>
+      <main>
+        <h1>Challenges</h1>
+        <div style={{ display: "flex", flexDirection: "column", gap: "12px" }}>
+          <a href="/nav">Challenge 1</a>
+          <a href="/card">Challenge 2</a>
+          <a href="/cards">Challenge 3</a>
+        </div>
+      </main>
     </>
   );
 }
